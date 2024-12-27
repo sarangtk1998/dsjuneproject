@@ -1,3 +1,3 @@
-def hello(x):
+def hello(x,y):
     
-    returnx
+    return x+y
